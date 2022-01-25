@@ -1,0 +1,23 @@
+body{
+    background-image: url(image/lielahti-2.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+.btn-color {
+    background-color: blue;
+    color: white;
+}
+h1{ 
+    margin-top: 25px;
+    color: rgba(22, 45, 98, 0.719);
+}
+.card{
+    margin-top:80px ;
+}
+.name{
+    color: rgb(243, 67, 67);
+}
+#spinner{
+    display: none;
+    margin: auto;
+}
